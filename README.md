@@ -8,7 +8,7 @@ I'm also studying Data Engineering at XP Education. I'm passionate about data an
 Here are some more details about me, but feel free to ask if you have any questions:
 
 
-- 🔭 I am currently working at Gupy, an ATS, as a Commercial Intelligence and Partnerships professional.
+- 🔭 I am currently working with ATS's, as a Commercial Intelligence and Partnerships professional.
 - 🌱 Currently, my focus is on learning more about data and delving deeper into different programming languages.
 - 👯 Additionally, I am looking to collaborate on volunteer projects in product development.
 - 🤔 I am seeking help with generating new ideas for my portfolio.
