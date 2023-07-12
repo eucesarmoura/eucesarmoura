@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 Great to see you here!
-My name is Cesar, and I'm a** Computer Science** student at the Federal University of Pernambuco. 
+My name is Cesar, and I'm a ** Computer Science** student at the Federal University of Pernambuco. 
 
 I'm also studying **Data Engineering** at XP Education. I'm passionate about data and various programming languages, and this space is where I showcase my latest projects and share different types of knowledge.
 
